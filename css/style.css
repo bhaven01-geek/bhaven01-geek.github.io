@@ -8185,7 +8185,7 @@ h1, h2, h3, h4, h5,
   @media (max-width: 991.98px) {
     .ftco-navbar-light {
       background: #000000 !important;
-      position: relative;
+      /* position: relative; */
       top: 0;
       padding-top: 0;
       padding-bottom: 0;
@@ -8198,7 +8198,8 @@ h1, h2, h3, h4, h5,
   .ftco-navbar-light .navbar-brand {
     color: #fff;
     padding-top: .7rem;
-    padding-bottom: .7rem; }
+    padding-bottom: .7rem;
+     margin-right:0 }
     .ftco-navbar-light .navbar-brand:hover, .ftco-navbar-light .navbar-brand:focus {
       color: #000 !important; }
     @media (max-width: 991.98px) {
