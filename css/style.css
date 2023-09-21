@@ -8934,7 +8934,8 @@ h1, h2, h3, h4, h5,
   .progress-bar span {
     position: absolute;
     top: -38px;
-    right: 0;
+    /* right: 0; */
+    left: 100%;
     font-size: 20px;
     font-weight: 400;
     /* color: #fff;  */
